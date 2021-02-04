@@ -1,0 +1,19 @@
+{
+  "name": "desktoppinner",
+  "version": "1.0.0",
+  "description": "TEST version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dydgns2017/DesktopPinner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dydgns2017/DesktopPinner/issues"
+  },
+  "homepage": "https://github.com/dydgns2017/DesktopPinner#readme"
+}
